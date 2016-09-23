@@ -1,0 +1,1 @@
+Contributor license agreements for Joliciel Informatique open source projects
